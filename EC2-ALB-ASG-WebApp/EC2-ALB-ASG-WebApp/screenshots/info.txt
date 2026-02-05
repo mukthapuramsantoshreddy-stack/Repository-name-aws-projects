@@ -1,0 +1,1 @@
+Screenshots related to EC2 ALB ASG project.
